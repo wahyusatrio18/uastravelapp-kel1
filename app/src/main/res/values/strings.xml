@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UASTravel</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in">Log In</string>
+    <!-- SharedPreferences -->
+    <string name="sharedPreferencesName">MySharedPreferences</string>
+
+    <!-- Booleans -->
+    <string name="logged">isLogged</string>
+
+    <!-- Strings -->
+    <string name="email">emailKey</string>
+    <string name="username_key">username_key</string>
+
+    <!-- Login Activity -->
+    <string name="txvLogin">Login</string>
+    <string name="edtEmail">Email</string>
+    <string name="edtName">Nama</string>
+    <string name="edtSenha">Password</string>
+    <string name="txvRegister">Belum Punya Akun? <b><u>Register</u></b></string>
+    <string name="btnLogin">Login</string>
+    <string name="sucessLogin">Login Berhasil</string>
+    <string name="failedLogin">Login Gagal</string>
+
+    <!-- Register Activity -->
+    <string name="txvRegister_activity">Register</string>
+    <string name="btnRegister">Register</string>
+    <string name="toastRegister">Isi Semua Kolom</string>
+    <string name="sucessRegister">Register Berhasil</string>
+
+    <!-- Main Activity -->
+    <string name="textShow">Telah Berhasil Login</string>
+    <string name="btnLogout">Keluar</string>
+    <string name="logout">Logout Berhasil</string>
+</resources>
